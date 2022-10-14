@@ -12,27 +12,29 @@
 
 **Dia-a-Dia**
 
-  ![PostqreSQL](https://img.shields.io/badge/-PostqreSQL-333333?style=flat&logo=Java&logoColor=007396)
-  ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=Java&logoColor=007396)
-  ![Synology](https://img.shields.io/badge/-Synology-333333?style=flat&logo=Java&logoColor=007396)
-  ![OMV](https://img.shields.io/badge/-OMV-333333?style=flat&logo=Java&logoColor=007396)
-  ![Ubuntu](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Java&logoColor=007396)
+  ![PostqreSQL](https://img.shields.io/badge/-PostqreSQL-333333?style=flat&logo=postgresql)
+  ![VMware](https://img.shields.io/badge/-VMware-333333?style=flat&logo=VMware)
+  ![Synology](https://img.shields.io/badge/-Synology-333333?style=flat&logo=synology)
+  ![OMV](https://img.shields.io/badge/-OMV-333333?style=flat&logo=openmediavault)
+  ![Ubuntu](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 **DevOps**
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=Git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Zabbix](https://img.shields.io/badge/-Zabbix-333333?style=flat&logo=Java&logoColor=007396)
+  ![Zabbix](https://img.shields.io/badge/-Zabbix-333333?style=flat&logo=zabbix)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![NetBeans](https://img.shields.io/badge/-Netbeans-333333?style=flat&logo=Apache-NetBeans-IDE)
   
 **Em Ritmo de Aprendizagem**
   
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Java&logoColor=007396)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Jenkins]()
 
 <br/>
 
