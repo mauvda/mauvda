@@ -34,9 +34,11 @@
   
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABmJLR0QA/wD/AP+gvaeTAAABRklEQVQokbWQvy9DURzFz7n3aaMaonnaJn4kTBLphEUi6WTrWBGbaBlMBpPRX8BgIRaTdJFYUY1N0rGpzYBEUqSRtOq93vs1SZBXYnDWcz75nu8B/kPNuenhTp7qZEg2q63hViefgVBmMtJsOIeGUiakLuBR79nV068XG029A8g9gYzWOPkO/VBVejTMtiLclrUvQYlg0GC9DWdGhAeOVRNBkS8/uvniAsENCHcj4r2O+M/j1VDyjmLPobhZ20svfWSdz+BjvVZw+weSBKMNG6pdh+IVI7bihPFAH+HOVQvzhuJfCGVQKU4BKhXSivT0mDXOaiCYWCml3HzpWNEJU8SCNikUzxIta9UNlZkNBN88e0tBVUQtE4wJ2SDYJQaLdPw1zbbEcsWhwHEAIJ47TRB61BAuyW6B9MEiSrBc209fBi38J70D/u17ivA/Mw8AAAAASUVORK5CYII=)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
   ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
   ![Kubernetes](https://img.shields.io/badge/-kubernetes-333333?style=flat&logo=kubernetes)
   ![Prometheus](https://img.shields.io/badge/-Prometheus-333333?style=flat&logo=prometheus)
+  ![Ansible](https://img.shields.io/badge/-Ansible-333333?style=flat&logo=ansible)
 
 <br/>
 
@@ -48,6 +50,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: SEU NOME](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: Mauricio Lamonatto](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logocolor=white&link=https://www.linkedin.com/in/mauricio-lamonatto-9943b5210/)](https://www.linkedin.com/in/mauricio-lamonatto-9943b5210/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mauricio.lamonatto@gmail.com)](mailto:mauricio.lamonatto@gmail.com)
+[![GitHub SEU NOME]( https://img.shields.io/github/followers/mauvda?label=follow&style=social)](https://github.com/mauvda)
